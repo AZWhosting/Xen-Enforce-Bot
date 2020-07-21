@@ -40,7 +40,7 @@ config/languageNotSupported|Désolé, je ne soutiens pas encore la langue '{0}' 
 config/kicktimeChanged|Le temps de vérification du captcha à été modifier avec succès, il est maintenant de {0} minutes.
 config/mediaTimeChanged|A réussi à modifier le délai des médias pour {0} heures.
 config/messageHelp|L'attribut %ACTURL doit apparaître dans ce message. Vous pouvez également avoir %NAME et %DURATION.
-config/messageSet|Le message de d'accueil a été modifié avec succès.
+config/messageSet|Le message d'accueil a été modifié avec succès.
 
 #FEATURES 
 feature/attackOn|Mode d’attaque ACTIVÉ. Aucun nouveau membre sera accepté.
